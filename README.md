@@ -1,2 +1,2 @@
 # Projects
-My own projects 
+My own projects related to quantitative finance
